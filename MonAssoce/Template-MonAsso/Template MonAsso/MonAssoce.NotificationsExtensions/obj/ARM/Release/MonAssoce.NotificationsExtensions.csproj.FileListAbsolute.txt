@@ -1,0 +1,24 @@
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\bin\ARM\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\bin\ARM\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\bin\ARM\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\priconfig.xml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\layout.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\resources.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\pri.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\ARM\Release\LanguageQualifiers.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\ARM\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\ARM\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\ARM\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\ARM\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\ARM\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\ARM\Release\priconfig.xml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\ARM\Release\layout.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\ARM\Release\resources.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\ARM\Release\pri.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\ARM\Release\LanguageQualifiers.txt

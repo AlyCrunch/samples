@@ -1,0 +1,44 @@
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\bin\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\bin\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\bin\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\priconfig.xml.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\layout.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\resources.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\pri.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\priconfig.xml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\layout.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\resources.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\pri.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Release\LanguageQualifiers.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\priconfig.xml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\layout.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\resources.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\pri.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\LanguageQualifiers.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\priconfig.xml.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\layout.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\resources.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Release\pri.resfiles.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\bin\Release\MonAssoce.NotificationsExtensions.dll
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\bin\Release\MonAssoce.NotificationsExtensions.pdb
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\bin\Release\MonAssoce.NotificationsExtensions.pri
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\MonAssoce.NotificationsExtensions.dll
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\MonAssoce.NotificationsExtensions.pdb
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\priconfig.xml
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\priconfig.xml.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\layout.resfiles
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\layout.resfiles.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\resources.resfiles
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\resources.resfiles.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\pri.resfiles
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\pri.resfiles.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\qualifiers.txt
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\qualifiers.txt.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\obj\Release\MultipleQualifiersPerDimensionFound.txt

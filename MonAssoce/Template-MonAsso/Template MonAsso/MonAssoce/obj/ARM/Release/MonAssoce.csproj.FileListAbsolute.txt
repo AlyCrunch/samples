@@ -1,0 +1,139 @@
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\Content\Images\background.png
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.exe
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\resources.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\AppxManifest.xml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.build.appxrecipe
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.BackgroundTasks.winmd
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.Data.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.BackgroundTasks.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.BackgroundTasks.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.Data.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.Data.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\ARM\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\MonAssoce.csprojResolveAssemblyReference.cache
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\App.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\App.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Common\StandardStyles.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Common\StandardStyles.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Content\Styles\CustomStyles.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Content\Styles\CustomStyles.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\Events.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\Events.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\EventsDetails.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\EventsDetails.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\MainPage.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\MainPage.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\Members.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\Members.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\News.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\News.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\NewsDetails.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\NewsDetails.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\Projects.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\Projects.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\ProjectsDetails.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\ProjectsDetails.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\SearchPage.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\SearchPage.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\UserControls\FlyoutCharm.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\UserControls\FlyoutCharm.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\App.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Common\StandardStyles.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\Events.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\EventsDetails.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\MainPage.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\Members.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\News.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\NewsDetails.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\Projects.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\ProjectsDetails.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\SearchPage.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Views\UserControls\FlyoutCharm.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\Content\Styles\CustomStyles.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\MonAssoce.exe
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\MonAssoce.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\MonAssoce.csproj.GenerateResource.Cache
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\priconfig.xml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\layout.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\resources.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\pri.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\LanguageQualifiers.txt
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\Content\Images\background.png
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.exe
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\resources.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\AppxManifest.xml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.build.appxrecipe
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.BackgroundTasks.winmd
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.Data.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.BackgroundTasks.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.BackgroundTasks.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.Data.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.Data.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\MonAssoce.csprojResolveAssemblyReference.cache
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\App.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\App.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Common\StandardStyles.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Common\StandardStyles.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Content\Styles\CustomStyles.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Content\Styles\CustomStyles.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\Events.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\Events.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\EventsDetails.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\EventsDetails.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\MainPage.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\MainPage.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\Members.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\Members.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\News.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\News.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\NewsDetails.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\NewsDetails.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\Projects.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\Projects.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\ProjectsDetails.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\ProjectsDetails.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\SearchPage.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\SearchPage.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\UserControls\FlyoutCharm.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\UserControls\FlyoutCharm.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\XamlTypeInfo.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\App.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Common\StandardStyles.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Content\Styles\CustomStyles.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\Events.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\EventsDetails.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\MainPage.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\Members.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\News.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\NewsDetails.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\Projects.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\ProjectsDetails.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\SearchPage.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\Views\UserControls\FlyoutCharm.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\MonAssoce.exe
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\MonAssoce.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\MonAssoce.csproj.GenerateResource.Cache
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\priconfig.xml.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\layout.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\resources.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\pri.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\priconfig.xml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\layout.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\resources.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\pri.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\LanguageQualifiers.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\ARM\Release\ProjectArchitectures.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\ARM\Release\MonAssoce_TemporaryKey.pfx

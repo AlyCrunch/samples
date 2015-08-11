@@ -1,0 +1,28 @@
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\bin\Debug\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\bin\Debug\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\bin\Debug\MonAssoce.NotificationsExtensions.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\priconfig.xml.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\layout.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\resources.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\pri.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\priconfig.xml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\layout.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\resources.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\pri.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.NotificationsExtensions\obj\Debug\LanguageQualifiers.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\Debug\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\Debug\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\Debug\MonAssoce.NotificationsExtensions.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\priconfig.xml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\layout.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\resources.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\pri.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\LanguageQualifiers.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\priconfig.xml.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\layout.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\resources.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\obj\Debug\pri.resfiles.intermediate

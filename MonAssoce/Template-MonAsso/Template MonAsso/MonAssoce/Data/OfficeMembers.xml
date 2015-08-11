@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<members>
+  <member>
+    <firstName>Jack</firstName>
+    <lastName>F.</lastName>
+    <title>Président</title>
+    <memberSince>2000-01-01</memberSince>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/OfficeMembers/1.jpg</pictureURI>
+    <email>contact@ahead-solutions.com</email>
+    <phoneNumber>0600000000</phoneNumber>
+  </member>
+  <member>
+    <firstName>Emma</firstName>
+    <lastName>O.</lastName>
+    <title>Secrétaire</title>
+    <memberSince>2000-01-01</memberSince>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/OfficeMembers/2.jpg</pictureURI>
+    <email>contact@ahead-solutions.com</email>
+    <phoneNumber>0600000002</phoneNumber>
+  </member>
+  <member>
+    <firstName>William </firstName>
+    <lastName>P.</lastName>
+    <title>Président (Suppléant)</title>
+    <memberSince>2000-01-01</memberSince>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/OfficeMembers/3.jpg</pictureURI>
+    <email>contact@ahead-solutions.com</email>
+    <phoneNumber>0600000000</phoneNumber>
+  </member>
+  <member>
+    <firstName>Paul</firstName>
+    <lastName>H.</lastName>
+    <title>Trésorier (Suppléant)</title>
+    <memberSince>2000-01-01</memberSince>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/OfficeMembers/4.jpg</pictureURI>
+    <email>contact@ahead-solutions.com</email>
+    <phoneNumber>0600000001</phoneNumber>
+  </member>
+  <member>
+    <firstName>Kate</firstName>
+    <lastName>R.</lastName>
+    <title>Secrétaire (Suppléant)</title>
+    <memberSince>2000-01-01</memberSince>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/OfficeMembers/5.jpg</pictureURI>
+    <email>contact@ahead-solutions.com</email>
+    <phoneNumber>0600000002</phoneNumber>
+  </member>
+</members>

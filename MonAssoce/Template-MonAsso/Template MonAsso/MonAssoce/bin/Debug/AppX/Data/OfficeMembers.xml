@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<members>
+  <member>
+    <firstName>Tony</firstName>
+    <lastName>De Witte</lastName>
+    <title>Président</title>
+    <memberSince>2011-02-01</memberSince>
+    <pictureURI>http://www.devinci-engineering.com/img/photos/tony.jpg</pictureURI>
+    <email>tony.de_witte@devinci.fr</email>
+    <phoneNumber>0600000000</phoneNumber>
+  </member>
+  <member>
+    <firstName>Jean-Baptiste</firstName>
+    <lastName>Thouron-Dupin</lastName>
+    <title>Vice-président</title>
+    <memberSince>2011-02-01</memberSince>
+    <pictureURI>http://www.devinci-engineering.com/img/photos/jb.jpg</pictureURI>
+    <email>jean-baptiste.thouron_dupin@devinci.fr</email>
+    <phoneNumber>0600000001</phoneNumber>
+  </member>
+  <member>
+    <firstName>Jean</firstName>
+    <lastName>Crnokrak</lastName>
+    <title>Secrétaire</title>
+    <memberSince>2011-02-01</memberSince>
+    <pictureURI>http://www.devinci-engineering.com/img/photos/jean.jpg</pictureURI>
+    <email>jean-baptiste.thouron_dupin@devinci.fr</email>
+    <phoneNumber>0600000002</phoneNumber>
+  </member>
+</members>

@@ -1,0 +1,139 @@
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\Content\Images\background.png
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.exe
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\resources.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\AppxManifest.xml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.build.appxrecipe
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.BackgroundTasks.winmd
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.Data.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.BackgroundTasks.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.BackgroundTasks.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.Data.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.Data.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\bin\Debug\MonAssoce.NotificationsExtensions.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\MonAssoce.csprojResolveAssemblyReference.cache
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\App.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\App.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Content\Styles\CustomStyles.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Content\Styles\CustomStyles.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\Events.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\Events.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\EventsDetails.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\EventsDetails.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\MainPage.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\Members.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\Members.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\News.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\News.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\NewsDetails.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\NewsDetails.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\Projects.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\Projects.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\ProjectsDetails.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\ProjectsDetails.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\SearchPage.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\SearchPage.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\UserControls\FlyoutCharm.g.i.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\UserControls\FlyoutCharm.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\App.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Common\StandardStyles.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Content\Styles\CustomStyles.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\Events.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\EventsDetails.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\MainPage.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\Members.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\News.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\NewsDetails.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\Projects.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\SearchPage.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\UserControls\FlyoutCharm.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\Views\ProjectsDetails.xaml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\MonAssoce.exe
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\MonAssoce.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\MonAssoce.csproj.GenerateResource.Cache
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\priconfig.xml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\layout.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\resources.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\pri.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\LanguageQualifiers.txt
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\ProjectArchitectures.txt
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\priconfig.xml.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\layout.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\resources.resfiles.intermediate
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce\obj\Debug\pri.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Content\Images\background.png
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.exe
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\resources.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\AppxManifest.xml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.build.appxrecipe
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.BackgroundTasks.winmd
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.Data.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.BackgroundTasks.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.BackgroundTasks.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.Data.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.Data.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.NotificationsExtensions.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\MonAssoce.csprojResolveAssemblyReference.cache
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\App.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\App.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Content\Styles\CustomStyles.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Content\Styles\CustomStyles.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\Events.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\Events.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\EventsDetails.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\EventsDetails.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\MainPage.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\Members.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\Members.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\News.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\News.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\NewsDetails.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\NewsDetails.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\Projects.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\Projects.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\ProjectsDetails.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\ProjectsDetails.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\SearchPage.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\SearchPage.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\UserControls\FlyoutCharm.g.i.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\UserControls\FlyoutCharm.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\App.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Common\StandardStyles.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Content\Styles\CustomStyles.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\Events.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\EventsDetails.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\MainPage.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\Members.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\News.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\NewsDetails.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\Projects.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\ProjectsDetails.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\SearchPage.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\Views\UserControls\FlyoutCharm.xaml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\MonAssoce.exe
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\MonAssoce.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\MonAssoce.csproj.GenerateResource.Cache
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\priconfig.xml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\layout.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\resources.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\pri.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\LanguageQualifiers.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\ProjectArchitectures.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\priconfig.xml.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\layout.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\resources.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\obj\Debug\pri.resfiles.intermediate
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce_TemporaryKey.pfx

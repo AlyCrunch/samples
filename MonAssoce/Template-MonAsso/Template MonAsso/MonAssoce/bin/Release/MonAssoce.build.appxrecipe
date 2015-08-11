@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HECTOR</Machine>
+    <WindowsUser>Alison</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>MonAssoce</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\MonAssoce.exe">
+      <PackagePath>MonAssoce.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.winmd">
+      <PackagePath>MonAssoce.BackgroundTasks.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.Data\bin\Release\MonAssoce.Data.dll">
+      <PackagePath>MonAssoce.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.Data\bin\Release\MonAssoce.NotificationsExtensions.dll">
+      <PackagePath>MonAssoce.NotificationsExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Assets\icon_150x150.png">
+      <PackagePath>Assets\icon_150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Assets\icon_24x24.png">
+      <PackagePath>Assets\icon_24x24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Assets\icon_30x30.png">
+      <PackagePath>Assets\icon_30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Assets\icon_310x150.png">
+      <PackagePath>Assets\icon_310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Assets\splashscreen.png">
+      <PackagePath>Assets\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\1.png">
+      <PackagePath>Content\Images\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\2.png">
+      <PackagePath>Content\Images\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\3.png">
+      <PackagePath>Content\Images\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\4.png">
+      <PackagePath>Content\Images\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\5.png">
+      <PackagePath>Content\Images\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\background.png">
+      <PackagePath>Content\Images\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\background_snapview.png">
+      <PackagePath>Content\Images\background_snapview.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Club\TestClubPicto.png">
+      <PackagePath>Content\Images\Club\TestClubPicto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Events\default.png">
+      <PackagePath>Content\Images\Events\default.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Events\label.png">
+      <PackagePath>Content\Images\Events\label.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Events\TestEvent.png">
+      <PackagePath>Content\Images\Events\TestEvent.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\logo_ahead.png">
+      <PackagePath>Content\Images\logo_ahead.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Members\default.png">
+      <PackagePath>Content\Images\Members\default.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Members\label.png">
+      <PackagePath>Content\Images\Members\label.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Members\TestMember.png">
+      <PackagePath>Content\Images\Members\TestMember.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\News\default.png">
+      <PackagePath>Content\Images\News\default.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\News\label.png">
+      <PackagePath>Content\Images\News\label.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\News\TestNews.png">
+      <PackagePath>Content\Images\News\TestNews.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Projects\default.png">
+      <PackagePath>Content\Images\Projects\default.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Projects\label.png">
+      <PackagePath>Content\Images\Projects\label.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Projects\TestProject.png">
+      <PackagePath>Content\Images\Projects\TestProject.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\zoom_out_presentation.png">
+      <PackagePath>Content\Images\zoom_out_presentation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\zoom_out_events.png">
+      <PackagePath>Content\Images\zoom_out_events.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\zoom_out_news.png">
+      <PackagePath>Content\Images\zoom_out_news.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\zoom_out_projects.png">
+      <PackagePath>Content\Images\zoom_out_projects.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Content\Images\Club\logo1XXL.jpg">
+      <PackagePath>Content\Images\Club\logo1XXL.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Data\Events.xml">
+      <PackagePath>Data\Events.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Data\Members.xml">
+      <PackagePath>Data\Members.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Data\News.xml">
+      <PackagePath>Data\News.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Data\OfficeMembers.xml">
+      <PackagePath>Data\OfficeMembers.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Data\Presentation.xml">
+      <PackagePath>Data\Presentation.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Data\Projects.xml">
+      <PackagePath>Data\Projects.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\Data\Settings.xml">
+      <PackagePath>Data\Settings.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Content\Styles\CustomStyles.xbf">
+      <PackagePath>Content\Styles\CustomStyles.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\Events.xbf">
+      <PackagePath>Views\Events.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\EventsDetails.xbf">
+      <PackagePath>Views\EventsDetails.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\Members.xbf">
+      <PackagePath>Views\Members.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\News.xbf">
+      <PackagePath>Views\News.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\NewsDetails.xbf">
+      <PackagePath>Views\NewsDetails.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\Projects.xbf">
+      <PackagePath>Views\Projects.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\ProjectsDetails.xbf">
+      <PackagePath>Views\ProjectsDetails.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\SearchPage.xbf">
+      <PackagePath>Views\SearchPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\Views\UserControls\FlyoutCharm.xbf">
+      <PackagePath>Views\UserControls\FlyoutCharm.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

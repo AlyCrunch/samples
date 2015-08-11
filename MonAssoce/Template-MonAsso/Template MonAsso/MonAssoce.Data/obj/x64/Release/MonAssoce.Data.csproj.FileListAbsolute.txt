@@ -1,0 +1,28 @@
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\bin\x64\Release\MonAssoce.Data.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\bin\x64\Release\MonAssoce.Data.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\bin\x64\Release\MonAssoce.Data.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\bin\x64\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\bin\x64\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\bin\x64\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\obj\x64\Release\MonAssoce.Data.csprojResolveAssemblyReference.cache
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\obj\x64\Release\MonAssoce.Data.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\obj\x64\Release\MonAssoce.Data.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\obj\x64\Release\priconfig.xml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\obj\x64\Release\layout.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\obj\x64\Release\resources.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\obj\x64\Release\pri.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.Data\obj\x64\Release\LanguageQualifiers.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\bin\x64\Release\MonAssoce.Data.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\bin\x64\Release\MonAssoce.Data.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\bin\x64\Release\MonAssoce.Data.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\bin\x64\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\bin\x64\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\bin\x64\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\obj\x64\Release\MonAssoce.Data.csprojResolveAssemblyReference.cache
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\obj\x64\Release\MonAssoce.Data.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\obj\x64\Release\MonAssoce.Data.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\obj\x64\Release\priconfig.xml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\obj\x64\Release\layout.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\obj\x64\Release\resources.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\obj\x64\Release\pri.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\obj\x64\Release\LanguageQualifiers.txt

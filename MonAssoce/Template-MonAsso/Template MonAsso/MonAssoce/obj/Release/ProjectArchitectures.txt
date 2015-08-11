@@ -1,0 +1,6 @@
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\MonAssoce.BackgroundTasks.csproj;neutral
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.Data\MonAssoce.Data.csproj;neutral
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.Data\MonAssoce.Data.csproj;neutral
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\MonAssoce.NotificationsExtensions.csproj;neutral
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.NotificationsExtensions\MonAssoce.NotificationsExtensions.csproj;neutral
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce\MonAssoce.csproj;neutral

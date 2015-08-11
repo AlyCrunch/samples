@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <clubName>Devinci Engineering</clubName>
+  <description>Depuis 2004, nous vous proposons une collaboration intéressante dans la réalisation de vos projets techniques et scientifiques. En vous proposant ses services, DeVinci Engineering vous promet un travail de qualité réalisé par des étudiants ingénieurs.</description>
+  <contactPhoneNumber>+33141167485</contactPhoneNumber>
+  <contactEmail>devinci-engineering@devinci.fr </contactEmail>
+  <!-- PictureURI may be a http:// URL if the pictures comes from the web -->
+  <pictureURI>/Content/Images/Club/TestClubPicto.png</pictureURI>
+  
+  <twitterURI></twitterURI>
+  <facebookURI>http://www.facebook.com/DeVinci.Engineering</facebookURI>
+  <!--
+    Presentation.xml contains the presentation of your app. You may call this file locally (from IsolatedStorage)
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/Presentation.xml or any URL returning a XML feed of the same data structure as Events.xml
+  -->
+  <presentationSourceURI>Data/Presentation.xml</presentationSourceURI>
+  
+  <newsSourceURI>Data/News.xml</newsSourceURI>
+  <!-- FOR LOCAL  USE : <newsSourceURI>Data/News.xml</newsSourceURI>-->
+  <!--
+    Events.xml contains the list of upcoming events. You may call this file locally (from IsolatedStorage)
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/Events.xml or any URL returning a XML feed of the same data structure as Events.xml
+  -->
+  <eventsSourceURI>Data/Events.xml</eventsSourceURI>
+  <!-- FOR LOCAL CALL USE : <newsSourceURI>Data/Events.xml</newsSourceURI>-->
+  <!--
+    OfficeMembers.xml contains the list of the association main members (Office). You may call this file locally (from IsolatedStorage).
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/OfficeMembers.xml or any other URL returning a XML feed following the same data structure as OfficeMembers.xml
+  -->
+  <officeMembersSourceURI>Data/OfficeMembers.xml</officeMembersSourceURI>
+  <!-- FOR LOCAL CALL USE : <newsSourceURI>Data/OfficeMembers.xml</newsSourceURI>-->
+  <!--
+    Members.xml contains the list of all the association members. You may call this file locally (from IsolatedStorage)
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/Members.xml or any other URL returning a XML feed following the same data structure as Members.xml
+  -->
+  <membersSourceURI>Data/Members.xml</membersSourceURI>
+  <!-- FOR LOCAL CALL USE : <newsSourceURI>Data/Members.xml</newsSourceURI>-->
+  <!--
+    Projects.xml contains the list of all the association main projects. You may call this file locally (from IsolatedStorage)
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/Projects.xml or any other URL returning a XML feed following the same data structure as Projects.xml
+  -->
+  <projectsSourceURI>Data/Projects.xml</projectsSourceURI>
+  <!-- FOR LOCAL CALL USE : <newsSourceURI>Data/Projects.xml</newsSourceURI>-->
+</settings>

@@ -1,0 +1,82 @@
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.winmd
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.csprojResolveAssemblyReference.cache
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.winmd
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.winmdobj
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.compile.pdb
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\priconfig.xml
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\layout.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\resources.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\pri.resfiles
+C:\Users\steph_000\Documents\Projects\MonAssoce\Windows\MonAssoce.BackgroundTasks\obj\Release\LanguageQualifiers.txt
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.winmd
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.csprojResolveAssemblyReference.cache
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.winmd
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.winmdobj
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.compile.pdb
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\priconfig.xml
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\layout.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\resources.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\pri.resfiles
+C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\obj\Release\LanguageQualifiers.txt
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.winmd
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.pdb
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.pri
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.dll
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.dll
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.pdb
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.pri
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.pdb
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.pri
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.csprojResolveAssemblyReference.cache
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.winmd
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.pdb
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.winmdobj
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.compile.pdb
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\priconfig.xml
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\layout.resfiles
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\resources.resfiles
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\pri.resfiles
+C:\Users\a-gucarl\Desktop\Template\MonAssoce.BackgroundTasks\obj\Release\LanguageQualifiers.txt
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.winmd
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.pdb
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.BackgroundTasks.pri
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.dll
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.dll
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.pdb
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.Data.pri
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.pdb
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\bin\Release\MonAssoce.NotificationsExtensions.pri
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.csprojResolveAssemblyReference.cache
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.winmd
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.pdb
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.winmdobj
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\MonAssoce.BackgroundTasks.compile.pdb
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\priconfig.xml
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\priconfig.xml.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\layout.resfiles
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\layout.resfiles.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\resources.resfiles
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\resources.resfiles.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\pri.resfiles
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\pri.resfiles.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\qualifiers.txt
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\qualifiers.txt.intermediate
+D:\Aly\Downloads\SampleCode\MonAssoce\Template-MonAsso\Template MonAsso\MonAssoce.BackgroundTasks\obj\Release\MultipleQualifiersPerDimensionFound.txt

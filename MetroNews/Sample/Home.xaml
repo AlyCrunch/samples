@@ -1,0 +1,262 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="MetroFrance.Views.Home"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MetroFrance.Views"
+    xmlns:uc="using:MetroFrance.Views.UserControls"
+    xmlns:common="using:MetroFrance.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Loaded="pageRoot_Loaded"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <DataTemplate x:Key="CustomTileItem">
+            <Grid>
+                <Grid Visibility="{Binding NormalVisibility}">
+                    <Grid HorizontalAlignment="Center" VerticalAlignment="Center"  Background="Black" Height="{Binding HeightBorder}" Width="{Binding WidthBorder}">
+                        <Image Tag="{Binding Tag, Mode=TwoWay}" Stretch="{Binding Stretch, Mode=TwoWay}" HorizontalAlignment="Center" 
+                               VerticalAlignment="Center" CacheMode="BitmapCache" Source="{Binding ImageUrl, Mode=TwoWay}"/>
+                    </Grid>
+                    <StackPanel VerticalAlignment="Bottom" Height="60" Background="Black" Opacity="0.7">
+                    </StackPanel>
+                    <StackPanel VerticalAlignment="Bottom" Height="60">
+                        <TextBlock Text="{Binding Title}" Style="{StaticResource TitleTextStyle}" Margin="{Binding MarginText}"/>
+                        <TextBlock Text="{Binding PublicationDate}" Foreground="White" Opacity="0.6" Style="{StaticResource DateStyle}" Margin="5,5,5,0"/>
+                        <TextBlock Text="{Binding ContentLight}" Visibility="{Binding ContentLightVisibility}" Style="{StaticResource ContentLightStyle}" Margin="5,2,5,5"/>
+                    </StackPanel>
+                </Grid>
+                <Grid Visibility="{Binding VideoVisibility}">
+                    <Ellipse Height="35" Width="35" Stroke="White" Fill="Black" StrokeThickness="3"/>
+                    <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" TextWrapping="Wrap" Foreground="White" FontFamily="Segoe UI Symbol" Text="&#xE102;" FontSize="24"/>
+                </Grid>
+                <Grid Visibility="{Binding GalleryVisibility}"
+                       VerticalAlignment="Bottom" HorizontalAlignment="Right" >
+                    <Image Margin="10" Source="/Content/Images/picto_gallery.png" Stretch="None"/>
+                </Grid>
+                <Grid Visibility="{Binding FilActuVisibility}"
+                      Background="{Binding Color}" Height="90" Width="380" Grid.ColumnSpan="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Border VerticalAlignment="Top" Background="Black" Margin="5,5,2,5" Width="65" Height="65">
+                        <Image Tag="{Binding Tag, Mode=TwoWay}"
+                               VerticalAlignment="Center" CacheMode="BitmapCache" HorizontalAlignment="Center" Stretch="UniformToFill" Source="{Binding ImageUrl, Mode=TwoWay}" />
+                    </Border>
+                    <StackPanel Grid.Column="1" Margin="5">
+                        <TextBlock HorizontalAlignment="Left" Text="{Binding Title}" MaxWidth="290" MaxHeight="52" Style="{StaticResource NormalStyle}" TextWrapping="Wrap" TextTrimming="WordEllipsis"/>
+                        <TextBlock Text="{Binding PublicationDate}" Style="{StaticResource DateStyle}" TextWrapping="NoWrap"/>
+                    </StackPanel>
+                </Grid>
+                <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Visibility="{Binding ErrorVisibility}">
+                    <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Text="{StaticResource NoData}" TextWrapping="Wrap" Style="{StaticResource SubheaderTextStyleDark}"/>
+                </Grid>
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="SnappedItem">
+            <Grid>
+                <Grid>
+                    <Grid Background="Black">
+                        <Image Tag="{Binding Tag, Mode=TwoWay}" Height="170" Width="290"  Stretch="{Binding Stretch}" CacheMode="BitmapCache" HorizontalAlignment="Center" VerticalAlignment="Center" Source="{Binding ImageUrl, Mode=TwoWay}"/>
+                    </Grid>
+                    <StackPanel VerticalAlignment="Bottom" Height="60" Background="Black" Opacity="0.7">
+                    </StackPanel>
+                    <StackPanel VerticalAlignment="Bottom" Height="60">
+                        <TextBlock Text="{Binding Title}" Style="{StaticResource TitleTextStyle}" Margin="5,-3,5,0"/>
+                        <TextBlock Text="{Binding PublicationDate}" Foreground="White" Opacity="0.6" Style="{StaticResource DateStyle}" Margin="5,5,5,0"/>
+                    </StackPanel>
+                </Grid>
+                <Grid Visibility="{Binding ErrorVisibility}">
+                    <TextBlock x:Uid="Error"/>
+                </Grid>
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="ZoomOutStyle">
+            <Grid>
+                <Border VerticalAlignment="Center" HorizontalAlignment="Center" Background="Black" Width="290" Height="220">
+                    <Image Source="{Binding Group.Img}" Stretch="UniformToFill"/>
+                </Border>
+                <StackPanel VerticalAlignment="Bottom" Height="50" Background="{Binding Group.Color}">
+                    <TextBlock Text="{Binding Group.HubName}" FontSize="21" HorizontalAlignment="Right" Style="{StaticResource ItemTextStyle}" MaxHeight="40" Margin="10"/>
+                </StackPanel>
+            </Grid>
+        </DataTemplate>
+        <CollectionViewSource
+            x:Name="groupedItemsViewSource"
+            Source="{Binding Hubs}"
+            IsSourceGrouped="true"/>
+    </Page.Resources>
+    <Grid Background="White">
+        <ProgressBar x:Name="ProgressBar"
+            Grid.ColumnSpan="2" Grid.RowSpan="2"
+            IsIndeterminate="True"
+            Canvas.ZIndex="3"
+            Height="10" Width="100"
+            Foreground="Green"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="118,130,0,0"
+            />
+        <Grid>
+            <Grid.Background>
+                <ImageBrush x:Name="ImageBackground" ImageSource="/Content/Images/background_landscape.png" Stretch="None" AlignmentX="Left" AlignmentY="Top"/>
+            </Grid.Background>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="140"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}" Margin="36,0,0,36"/>
+                <Image x:Name="MetroImg" Source="/Content/Images/logo_metro_800.png" HorizontalAlignment="Left" Margin="40,49,0,38" Grid.Column="1"/>
+                <TextBlock x:Name="ActuDate" Grid.Column="1" Text="{Binding LastUpdateDate}" Style="{StaticResource CaptionTextStyle}" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,15,38" />
+            </Grid>
+            <SemanticZoom x:Name="NormalData" Grid.Row="1">
+                <SemanticZoom.ZoomedInView>
+                    <uc:HomeGridView
+                    x:Name="itemGridViewIn"
+                    Grid.Row="1"
+                    Margin="0,-3,0,0"
+                    Padding="116,0,40,46"
+                    SelectionMode="None"
+                    ItemsSource="{Binding Source={StaticResource groupedItemsViewSource}}"
+                    IsItemClickEnabled="True"
+                    ItemClick="itemGridViewIn_ItemClick"
+                    ItemTemplate="{StaticResource CustomTileItem}">
+                        <uc:HomeGridView.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <VirtualizingStackPanel Orientation="Horizontal"/>
+                            </ItemsPanelTemplate>
+                        </uc:HomeGridView.ItemsPanel>
+                        <GridView.GroupStyle>
+                            <GroupStyle>
+                                <GroupStyle.HeaderTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" Margin="1,0,0,6">
+                                            <Button
+                                            Name="HeaderHubName"
+                                            Click="HeaderHubName_Click"
+                                            Content="{Binding HubName, Mode=TwoWay}"
+                                            AutomationProperties.Name="Group Title"
+                                            Style="{StaticResource TextButtonStyleDark}">
+                                            </Button>
+                                            <TextBlock Tapped="TextBlock_Tapped" Tag="{Binding HubName}" Style="{StaticResource MoreButton}"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GroupStyle.HeaderTemplate>
+                                <GroupStyle.Panel>
+                                    <ItemsPanelTemplate>
+                                        <VariableSizedWrapGrid VerticalAlignment="Top" ItemWidth="95" ItemHeight="85" Orientation="Vertical" Margin="0,0,80,0"/>
+                                    </ItemsPanelTemplate>
+                                </GroupStyle.Panel>
+                            </GroupStyle>
+                        </GridView.GroupStyle>
+                    </uc:HomeGridView>
+                </SemanticZoom.ZoomedInView>
+                <SemanticZoom.ZoomedOutView>
+                    <GridView
+                    x:Name="itemGridViewOut"
+                    Padding="116,35,40,46"
+                    SelectionMode="None"
+                    ItemTemplate="{StaticResource ZoomOutStyle}"
+                    />
+                </SemanticZoom.ZoomedOutView>
+            </SemanticZoom>
+            <ListView
+            x:Name="itemListView"
+            AutomationProperties.AutomationId="ItemListView"
+            AutomationProperties.Name="Grouped Items"
+            Grid.Row="1"
+            Visibility="Collapsed"
+            Margin="0,-10,0,0"
+            Padding="10,0,0,60"
+            SelectionMode="None"
+            IsItemClickEnabled="True"
+            ItemClick="itemGridViewIn_ItemClick"
+            ItemsSource="{Binding Source={StaticResource groupedItemsViewSource}}"
+            ItemTemplate="{StaticResource SnappedItem}">
+                <ListView.GroupStyle>
+                    <GroupStyle>
+                        <GroupStyle.HeaderTemplate>
+                            <DataTemplate>
+                                <Grid Margin="7,7,0,0">
+                                    <Button
+                                    AutomationProperties.Name="Group Title"
+                                    Click="HeaderHubName_Click"
+                                    Content="{Binding HubName}"
+                                    Style="{StaticResource TextButtonStyleDark}"/>
+                                </Grid>
+                            </DataTemplate>
+                        </GroupStyle.HeaderTemplate>
+                    </GroupStyle>
+                </ListView.GroupStyle>
+            </ListView>
+        </Grid>
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape">
+                    <Storyboard Completed="FullScreenCompleted">
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="ImageBackground" Storyboard.TargetProperty="ImageSource">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="/Content/Images/background_landscape.png"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+                <VisualState x:Name="Filled">
+                    <Storyboard Completed="FullScreenCompleted">
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="ImageBackground" Storyboard.TargetProperty="ImageSource">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="/Content/Images/background_landscape.png"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard Completed="PortraitCompleted">
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="itemGridViewIn" Storyboard.TargetProperty="Padding">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="96,0,10,56"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="ImageBackground" Storyboard.TargetProperty="ImageSource">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="/Content/Images/background_portrait.png"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="MetroImg" Storyboard.TargetProperty="Margin">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="20,49,0,38"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+                <VisualState x:Name="Snapped">
+                    <Storyboard Completed="SnappedCompleted">
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="ActuDate" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="itemListView" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="NormalData" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="ImageBackground" Storyboard.TargetProperty="ImageSource">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="/Content/Images/background_snap.png"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+    <Page.BottomAppBar>
+        <AppBar>
+            <Grid HorizontalAlignment="Right">
+                <Button x:Name="RefreshButton" Style="{StaticResource RefreshAppBarButtonStyle}" Click="RefreshButton_Click"/>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+</common:LayoutAwarePage>

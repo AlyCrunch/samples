@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<members>
+  <member>
+    <firstName>Ibrahim</firstName>
+    <lastName>A.</lastName>
+    <memberSince>2011-02-01</memberSince>
+    <pictureURI></pictureURI>
+    <email></email>
+    <phoneNumber></phoneNumber>
+  </member>
+  <member>
+    <firstName>Marion</firstName>
+    <lastName>B.</lastName>
+    <memberSince>2011-02-01</memberSince>
+    <pictureURI></pictureURI>
+    <email></email>
+    <phoneNumber></phoneNumber>
+  </member>
+  <member>
+    <firstName>Anne-Charlotte</firstName>
+    <lastName>B.</lastName>
+    <memberSince>2011-02-01</memberSince>
+    <pictureURI></pictureURI>
+    <email></email>
+    <phoneNumber></phoneNumber>
+  </member>
+  <member>
+    <firstName>Julien</firstName>
+    <lastName>B.</lastName>
+    <memberSince>2011-02-01</memberSince>
+    <pictureURI></pictureURI>
+    <email></email>
+    <phoneNumber></phoneNumber>
+  </member>
+
+</members>

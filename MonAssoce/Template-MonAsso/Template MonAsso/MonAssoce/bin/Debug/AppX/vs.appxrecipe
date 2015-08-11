@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>A-GUCARL1</Machine>
+    <WindowsUser>a-gucarl</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>BAF107628DC775A7C17D241EEB1A0744657075BA637A716872472277D88DFF6B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>20204FB99A86A.DevinciEngineering_1.0.0.20_neutral__wm156n6h0ysfr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>20204FB99A86A.DevinciEngineering_wm156n6h0ysfr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>20204FB99A86A.DevinciEngineering</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=71BB8C5D-D4C8-48BE-B768-946E7E120066</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.20</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-13T17:07:25.793</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.exe">
+      <PackagePath>MonAssoce.exe</PackagePath>
+      <Modified>2012-11-13T17:07:24.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\MonAssoce.pdb">
+      <PackagePath>MonAssoce.pdb</PackagePath>
+      <Modified>2012-11-13T17:07:24.714</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Debug\MonAssoce.BackgroundTasks.pdb">
+      <PackagePath>MonAssoce.BackgroundTasks.pdb</PackagePath>
+      <Modified>2012-11-13T16:46:51.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\bin\Debug\MonAssoce.Data.pdb">
+      <PackagePath>MonAssoce.Data.pdb</PackagePath>
+      <Modified>2012-11-13T16:46:50.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.NotificationsExtensions\bin\Debug\MonAssoce.NotificationsExtensions.pdb">
+      <PackagePath>MonAssoce.NotificationsExtensions.pdb</PackagePath>
+      <Modified>2012-11-13T16:46:50.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.BackgroundTasks\bin\Debug\MonAssoce.BackgroundTasks.winmd">
+      <PackagePath>MonAssoce.BackgroundTasks.winmd</PackagePath>
+      <Modified>2012-11-13T16:46:51.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\bin\Debug\MonAssoce.Data.dll">
+      <PackagePath>MonAssoce.Data.dll</PackagePath>
+      <Modified>2012-11-13T16:46:50.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce.Data\bin\Debug\MonAssoce.NotificationsExtensions.dll">
+      <PackagePath>MonAssoce.NotificationsExtensions.dll</PackagePath>
+      <Modified>2012-11-13T16:46:50.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Assets\icon_150x150.png">
+      <PackagePath>Assets\icon_150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-13T15:16:24.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Assets\icon_24x24.png">
+      <PackagePath>Assets\icon_24x24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-13T16:08:06.135</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Assets\icon_30x30.png">
+      <PackagePath>Assets\icon_30x30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-13T15:20:54.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Assets\icon_310x150.png">
+      <PackagePath>Assets\icon_310x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-13T15:22:46.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-13T15:25:52.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Assets\splashscreen.png">
+      <PackagePath>Assets\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-13T14:56:28.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\1.png">
+      <PackagePath>Content\Images\1.png</PackagePath>
+      <Modified>2012-09-24T11:33:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\2.png">
+      <PackagePath>Content\Images\2.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\3.png">
+      <PackagePath>Content\Images\3.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\4.png">
+      <PackagePath>Content\Images\4.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\5.png">
+      <PackagePath>Content\Images\5.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\background.png">
+      <PackagePath>Content\Images\background.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\background_snapview.png">
+      <PackagePath>Content\Images\background_snapview.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Club\TestClubPicto.png">
+      <PackagePath>Content\Images\Club\TestClubPicto.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Events\default.png">
+      <PackagePath>Content\Images\Events\default.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Events\label.png">
+      <PackagePath>Content\Images\Events\label.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Events\TestEvent.png">
+      <PackagePath>Content\Images\Events\TestEvent.png</PackagePath>
+      <Modified>2012-09-24T11:33:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\logo_ahead.png">
+      <PackagePath>Content\Images\logo_ahead.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Members\default.png">
+      <PackagePath>Content\Images\Members\default.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Members\label.png">
+      <PackagePath>Content\Images\Members\label.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Members\TestMember.png">
+      <PackagePath>Content\Images\Members\TestMember.png</PackagePath>
+      <Modified>2012-09-24T11:33:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\News\default.png">
+      <PackagePath>Content\Images\News\default.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\News\label.png">
+      <PackagePath>Content\Images\News\label.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\News\TestNews.png">
+      <PackagePath>Content\Images\News\TestNews.png</PackagePath>
+      <Modified>2012-09-24T11:33:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Projects\default.png">
+      <PackagePath>Content\Images\Projects\default.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Projects\label.png">
+      <PackagePath>Content\Images\Projects\label.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Projects\TestProject.png">
+      <PackagePath>Content\Images\Projects\TestProject.png</PackagePath>
+      <Modified>2012-09-24T11:33:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\zoom_out_presentation.png">
+      <PackagePath>Content\Images\zoom_out_presentation.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\zoom_out_events.png">
+      <PackagePath>Content\Images\zoom_out_events.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\zoom_out_news.png">
+      <PackagePath>Content\Images\zoom_out_news.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\zoom_out_projects.png">
+      <PackagePath>Content\Images\zoom_out_projects.png</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Content\Images\Club\logo1XXL.jpg">
+      <PackagePath>Content\Images\Club\logo1XXL.jpg</PackagePath>
+      <Modified>2012-11-13T13:11:10.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Data\Events.xml">
+      <PackagePath>Data\Events.xml</PackagePath>
+      <Modified>2012-11-13T14:30:02.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Data\Members.xml">
+      <PackagePath>Data\Members.xml</PackagePath>
+      <Modified>2012-11-13T14:04:11.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Data\News.xml">
+      <PackagePath>Data\News.xml</PackagePath>
+      <Modified>2012-11-13T14:44:16.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Data\OfficeMembers.xml">
+      <PackagePath>Data\OfficeMembers.xml</PackagePath>
+      <Modified>2012-11-13T14:01:14.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Data\Presentation.xml">
+      <PackagePath>Data\Presentation.xml</PackagePath>
+      <Modified>2012-11-13T13:48:37.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Data\Projects.xml">
+      <PackagePath>Data\Projects.xml</PackagePath>
+      <Modified>2012-11-13T14:23:26.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\Data\Settings.xml">
+      <PackagePath>Data\Settings.xml</PackagePath>
+      <Modified>2012-11-13T15:34:27.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-13T12:53:29.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-09-24T11:33:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Content\Styles\CustomStyles.xaml">
+      <PackagePath>Content\Styles\CustomStyles.xaml</PackagePath>
+      <Modified>2012-09-24T12:02:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\Events.xaml">
+      <PackagePath>Views\Events.xaml</PackagePath>
+      <Modified>2012-09-24T11:42:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\EventsDetails.xaml">
+      <PackagePath>Views\EventsDetails.xaml</PackagePath>
+      <Modified>2012-09-24T11:49:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\MainPage.xaml">
+      <PackagePath>Views\MainPage.xaml</PackagePath>
+      <Modified>2012-11-13T15:26:10.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\Members.xaml">
+      <PackagePath>Views\Members.xaml</PackagePath>
+      <Modified>2012-09-24T11:52:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\News.xaml">
+      <PackagePath>Views\News.xaml</PackagePath>
+      <Modified>2012-09-24T11:52:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\NewsDetails.xaml">
+      <PackagePath>Views\NewsDetails.xaml</PackagePath>
+      <Modified>2012-09-24T11:55:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\Projects.xaml">
+      <PackagePath>Views\Projects.xaml</PackagePath>
+      <Modified>2012-09-24T11:57:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\ProjectsDetails.xaml">
+      <PackagePath>Views\ProjectsDetails.xaml</PackagePath>
+      <Modified>2012-09-24T11:57:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\SearchPage.xaml">
+      <PackagePath>Views\SearchPage.xaml</PackagePath>
+      <Modified>2012-09-24T11:33:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\Views\UserControls\FlyoutCharm.xaml">
+      <PackagePath>Views\UserControls\FlyoutCharm.xaml</PackagePath>
+      <Modified>2012-09-24T11:33:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\a-gucarl\Projets MS\Mon Asso\MonAssoceSource_1.0.0.15\MonAssoceSource_1.0.0.15\MonAssoce\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-13T17:07:24.889</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

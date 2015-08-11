@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="MonAssoce" Publisher="CN=a-gucarl" Version="1.0.0.22" />
+  <Properties>
+    <DisplayName>MonAssoce</DisplayName>
+    <PublisherDisplayName>Guillaume C.</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.0</OSMinVersion>
+    <OSMaxVersionTested>6.2.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <!-- <Resource Language="en" /> -->
+    <Resource Language="fr" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="MonAssoce.App">
+      <VisualElements DisplayName="Mon Asso" Logo="Assets\icon_150x150.png" SmallLogo="Assets\icon_30x30.png" Description="Association" ForegroundText="dark" BackgroundColor="#D0D0C4">
+        <LockScreen Notification="badgeAndTileText" BadgeLogo="Assets\icon_24x24.png" />
+        <DefaultTile ShowName="logoOnly" WideLogo="Assets\icon_310x150.png" ShortName="Asso" />
+        <SplashScreen Image="Assets\splashscreen.png" BackgroundColor="#d6d6ca" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+          <Rotation Preference="portraitFlipped" />
+          <Rotation Preference="landscapeFlipped" />
+        </InitialRotationPreference>
+      </VisualElements>
+      <Extensions>
+        <Extension Category="windows.search" />
+        <Extension Category="windows.backgroundTasks" EntryPoint="MonAssoce.BackgroundTasks.BackgroundTask">
+          <BackgroundTasks>
+            <Task Type="timer" />
+            <Task Type="systemEvent" />
+          </BackgroundTasks>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

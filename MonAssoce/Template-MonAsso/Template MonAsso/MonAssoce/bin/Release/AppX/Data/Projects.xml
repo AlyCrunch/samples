@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<projects>
+  <project>
+    <!-- Gives an order of appearance to the project, 1 means the project will appear first in the list and so on... -->
+    <orderOfAppearance>1</orderOfAppearance>
+    <title>Project N°1</title>
+    <!-- A project may have a deadline, if that's the case it needs to be included below
+    Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <deadline>2011-08-12</deadline>
+    <subTitle>Project subtitle</subTitle>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/1.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/1.jpg</remotePictureURI>
+    <description>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet hendrerit venenatis. Vestibulum ullamcorper tortor magna, viverra tincidunt orci. Sed malesuada faucibus sapien, a varius ante auctor ac. Vivamus adipiscing facilisis molestie. Integer enim lacus, egestas ac euismod vel, lacinia vel odio. Suspendisse luctus congue risus, eget porta sapien ornare vitae. Duis lobortis urna vitae mi pellentesque eget auctor ipsum fermentum. Curabitur felis nulla, rutrum et dictum in, scelerisque quis nisl.
+       
+      Nam fringilla volutpat tortor, et cursus urna eleifend ut. Nunc ultrices, tortor non ullamcorper pharetra, velit dui gravida ligula, a dictum risus risus eu orci. Nullam id dolor ultricies nunc consectetur molestie. Phasellus volutpat aliquam diam vitae faucibus. Maecenas in ipsum mi, quis ultricies ipsum. Proin libero mauris, rutrum quis fermentum et, porttitor in elit. Curabitur hendrerit nulla sed neque tempor bibendum. Proin eu ante sem, adipiscing semper leo.
+       
+      Duis facilisis venenatis quam. Vivamus rhoncus nulla id nunc imperdiet at auctor arcu laoreet. Suspendisse accumsan nibh id orci fermentum feugiat. Nullam quis dictum orci. Maecenas at diam non diam suscipit adipiscing id et lorem. Maecenas auctor odio nec dui elementum in porttitor nisl suscipit. Sed vestibulum pharetra mi vitae malesuada. Proin vitae mi metus, eget pulvinar libero. Duis scelerisque diam vel lorem vulputate et rutrum dolor aliquam. Nunc est eros, suscipit a egestas ut, pulvinar in lacus. Quisque orci felis, faucibus a pulvinar a, interdum in nibh.
+       
+      Cras ut lectus id massa lobortis sodales. Aenean malesuada fringilla vehicula. Mauris semper iaculis ultrices. Quisque arcu libero, dapibus ac tempus in, viverra accumsan lorem. Etiam euismod feugiat metus sit amet elementum. Nam semper hendrerit lacus, non convallis arcu varius eleifend. Nullam sit amet est urna. Fusce nec dolor non turpis hendrerit porta sit amet id nunc. Pellentesque nec justo ut risus lacinia luctus. Donec nec euismod turpis. Maecenas ullamcorper nulla nec lectus hendrerit iaculis. Vestibulum purus nibh, interdum porta molestie nec, malesuada ut velit.
+       
+      Curabitur nec lectus libero. Suspendisse elit quam, rutrum sed tempus in, commodo id ante. Nam sit amet dui velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc rutrum ipsum orci. Quisque eleifend dictum quam in tempus. Duis vel ante diam. Pellentesque in risus nec ipsum mattis consectetur. Suspendisse aliquam lorem sit amet lacus cursus auctor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus elementum mollis felis eget commodo. Etiam in sapien ligula, in dignissim lorem. Cras laoreet nibh nec urna iaculis ut iaculis sapien dictum.
+    </description>
+    <contactName></contactName>
+    <contactEmail></contactEmail>
+    <contactPhone></contactPhone>
+  </project>
+  <project>
+    <!-- Gives an order of appearance to the project, 1 means the project will appear first in the list and so on... -->
+    <orderOfAppearance>2</orderOfAppearance>
+    <title>Project N°2</title>
+    <!-- A project may have a deadline, if that's the case it needs to be included below
+    Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <deadline>2011-08-12</deadline>
+    <subTitle>Project subtitle</subTitle>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/2.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/2.jpg</remotePictureURI>
+    <description>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet hendrerit venenatis. Vestibulum ullamcorper tortor magna, viverra tincidunt orci. Sed malesuada faucibus sapien, a varius ante auctor ac. Vivamus adipiscing facilisis molestie. Integer enim lacus, egestas ac euismod vel, lacinia vel odio. Suspendisse luctus congue risus, eget porta sapien ornare vitae. Duis lobortis urna vitae mi pellentesque eget auctor ipsum fermentum. Curabitur felis nulla, rutrum et dictum in, scelerisque quis nisl.
+       
+      Nam fringilla volutpat tortor, et cursus urna eleifend ut. Nunc ultrices, tortor non ullamcorper pharetra, velit dui gravida ligula, a dictum risus risus eu orci. Nullam id dolor ultricies nunc consectetur molestie. Phasellus volutpat aliquam diam vitae faucibus. Maecenas in ipsum mi, quis ultricies ipsum. Proin libero mauris, rutrum quis fermentum et, porttitor in elit. Curabitur hendrerit nulla sed neque tempor bibendum. Proin eu ante sem, adipiscing semper leo.
+       
+      Duis facilisis venenatis quam. Vivamus rhoncus nulla id nunc imperdiet at auctor arcu laoreet. Suspendisse accumsan nibh id orci fermentum feugiat. Nullam quis dictum orci. Maecenas at diam non diam suscipit adipiscing id et lorem. Maecenas auctor odio nec dui elementum in porttitor nisl suscipit. Sed vestibulum pharetra mi vitae malesuada. Proin vitae mi metus, eget pulvinar libero. Duis scelerisque diam vel lorem vulputate et rutrum dolor aliquam. Nunc est eros, suscipit a egestas ut, pulvinar in lacus. Quisque orci felis, faucibus a pulvinar a, interdum in nibh.
+       
+      Cras ut lectus id massa lobortis sodales. Aenean malesuada fringilla vehicula. Mauris semper iaculis ultrices. Quisque arcu libero, dapibus ac tempus in, viverra accumsan lorem. Etiam euismod feugiat metus sit amet elementum. Nam semper hendrerit lacus, non convallis arcu varius eleifend. Nullam sit amet est urna. Fusce nec dolor non turpis hendrerit porta sit amet id nunc. Pellentesque nec justo ut risus lacinia luctus. Donec nec euismod turpis. Maecenas ullamcorper nulla nec lectus hendrerit iaculis. Vestibulum purus nibh, interdum porta molestie nec, malesuada ut velit.
+       
+      Curabitur nec lectus libero. Suspendisse elit quam, rutrum sed tempus in, commodo id ante. Nam sit amet dui velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc rutrum ipsum orci. Quisque eleifend dictum quam in tempus. Duis vel ante diam. Pellentesque in risus nec ipsum mattis consectetur. Suspendisse aliquam lorem sit amet lacus cursus auctor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus elementum mollis felis eget commodo. Etiam in sapien ligula, in dignissim lorem. Cras laoreet nibh nec urna iaculis ut iaculis sapien dictum.
+    </description>
+    <contactName>Sebastien B.</contactName>
+    <contactEmail>contact@ahead-solutions.com</contactEmail>
+    <contactPhone>+33600000000</contactPhone>
+  </project>
+  <project>
+    <!-- Gives an order of appearance to the project, 1 means the project will appear first in the list and so on... -->
+    <orderOfAppearance>3</orderOfAppearance>
+    <title>Project N°3</title>
+    <!-- A project may have a deadline, if that's the case it needs to be included below
+    Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <deadline>2012-12-02 13:37</deadline>
+    <subTitle>Project subtitle</subTitle>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/3.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/3.jpg</remotePictureURI>
+    <description>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet hendrerit venenatis. Vestibulum ullamcorper tortor magna, viverra tincidunt orci. Sed malesuada faucibus sapien, a varius ante auctor ac. Vivamus adipiscing facilisis molestie. Integer enim lacus, egestas ac euismod vel, lacinia vel odio. Suspendisse luctus congue risus, eget porta sapien ornare vitae. Duis lobortis urna vitae mi pellentesque eget auctor ipsum fermentum. Curabitur felis nulla, rutrum et dictum in, scelerisque quis nisl.
+       
+      Nam fringilla volutpat tortor, et cursus urna eleifend ut. Nunc ultrices, tortor non ullamcorper pharetra, velit dui gravida ligula, a dictum risus risus eu orci. Nullam id dolor ultricies nunc consectetur molestie. Phasellus volutpat aliquam diam vitae faucibus. Maecenas in ipsum mi, quis ultricies ipsum. Proin libero mauris, rutrum quis fermentum et, porttitor in elit. Curabitur hendrerit nulla sed neque tempor bibendum. Proin eu ante sem, adipiscing semper leo.
+       
+      Duis facilisis venenatis quam. Vivamus rhoncus nulla id nunc imperdiet at auctor arcu laoreet. Suspendisse accumsan nibh id orci fermentum feugiat. Nullam quis dictum orci. Maecenas at diam non diam suscipit adipiscing id et lorem. Maecenas auctor odio nec dui elementum in porttitor nisl suscipit. Sed vestibulum pharetra mi vitae malesuada. Proin vitae mi metus, eget pulvinar libero. Duis scelerisque diam vel lorem vulputate et rutrum dolor aliquam. Nunc est eros, suscipit a egestas ut, pulvinar in lacus. Quisque orci felis, faucibus a pulvinar a, interdum in nibh.
+       
+      Cras ut lectus id massa lobortis sodales. Aenean malesuada fringilla vehicula. Mauris semper iaculis ultrices. Quisque arcu libero, dapibus ac tempus in, viverra accumsan lorem. Etiam euismod feugiat metus sit amet elementum. Nam semper hendrerit lacus, non convallis arcu varius eleifend. Nullam sit amet est urna. Fusce nec dolor non turpis hendrerit porta sit amet id nunc. Pellentesque nec justo ut risus lacinia luctus. Donec nec euismod turpis. Maecenas ullamcorper nulla nec lectus hendrerit iaculis. Vestibulum purus nibh, interdum porta molestie nec, malesuada ut velit.
+       
+      Curabitur nec lectus libero. Suspendisse elit quam, rutrum sed tempus in, commodo id ante. Nam sit amet dui velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc rutrum ipsum orci. Quisque eleifend dictum quam in tempus. Duis vel ante diam. Pellentesque in risus nec ipsum mattis consectetur. Suspendisse aliquam lorem sit amet lacus cursus auctor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus elementum mollis felis eget commodo. Etiam in sapien ligula, in dignissim lorem. Cras laoreet nibh nec urna iaculis ut iaculis sapien dictum.
+    </description>
+    <contactName>Sebastien B.</contactName>
+    <contactEmail>contact@ahead-solutions.com</contactEmail>
+    <contactPhone>+33684540000</contactPhone>
+  </project>
+  <project>
+    <!-- Gives an order of appearance to the project, 1 means the project will appear first in the list and so on... -->
+    <orderOfAppearance>4</orderOfAppearance>
+    <title>Project N°4</title>
+    <!-- A project may have a deadline, if that's the case it needs to be included below
+    Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <deadline>2012-12-02 13:37</deadline>
+    <subTitle>Project subtitle</subTitle>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/4.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/4.jpg</remotePictureURI>
+    <description>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet hendrerit venenatis. Vestibulum ullamcorper tortor magna, viverra tincidunt orci. Sed malesuada faucibus sapien, a varius ante auctor ac. Vivamus adipiscing facilisis molestie. Integer enim lacus, egestas ac euismod vel, lacinia vel odio. Suspendisse luctus congue risus, eget porta sapien ornare vitae. Duis lobortis urna vitae mi pellentesque eget auctor ipsum fermentum. Curabitur felis nulla, rutrum et dictum in, scelerisque quis nisl.
+      
+      Nam fringilla volutpat tortor, et cursus urna eleifend ut. Nunc ultrices, tortor non ullamcorper pharetra, velit dui gravida ligula, a dictum risus risus eu orci. Nullam id dolor ultricies nunc consectetur molestie. Phasellus volutpat aliquam diam vitae faucibus. Maecenas in ipsum mi, quis ultricies ipsum. Proin libero mauris, rutrum quis fermentum et, porttitor in elit. Curabitur hendrerit nulla sed neque tempor bibendum. Proin eu ante sem, adipiscing semper leo.
+      
+      Duis facilisis venenatis quam. Vivamus rhoncus nulla id nunc imperdiet at auctor arcu laoreet. Suspendisse accumsan nibh id orci fermentum feugiat. Nullam quis dictum orci. Maecenas at diam non diam suscipit adipiscing id et lorem. Maecenas auctor odio nec dui elementum in porttitor nisl suscipit. Sed vestibulum pharetra mi vitae malesuada. Proin vitae mi metus, eget pulvinar libero. Duis scelerisque diam vel lorem vulputate et rutrum dolor aliquam. Nunc est eros, suscipit a egestas ut, pulvinar in lacus. Quisque orci felis, faucibus a pulvinar a, interdum in nibh.
+      
+      Cras ut lectus id massa lobortis sodales. Aenean malesuada fringilla vehicula. Mauris semper iaculis ultrices. Quisque arcu libero, dapibus ac tempus in, viverra accumsan lorem. Etiam euismod feugiat metus sit amet elementum. Nam semper hendrerit lacus, non convallis arcu varius eleifend. Nullam sit amet est urna. Fusce nec dolor non turpis hendrerit porta sit amet id nunc. Pellentesque nec justo ut risus lacinia luctus. Donec nec euismod turpis. Maecenas ullamcorper nulla nec lectus hendrerit iaculis. Vestibulum purus nibh, interdum porta molestie nec, malesuada ut velit.
+      
+      Curabitur nec lectus libero. Suspendisse elit quam, rutrum sed tempus in, commodo id ante. Nam sit amet dui velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc rutrum ipsum orci. Quisque eleifend dictum quam in tempus. Duis vel ante diam. Pellentesque in risus nec ipsum mattis consectetur. Suspendisse aliquam lorem sit amet lacus cursus auctor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus elementum mollis felis eget commodo. Etiam in sapien ligula, in dignissim lorem. Cras laoreet nibh nec urna iaculis ut iaculis sapien dictum.
+    </description>
+    <contactName>Sebastien B.</contactName>
+    <contactEmail>contact@ahead-solutions.com</contactEmail>
+    <contactPhone>+33684540000</contactPhone>
+  </project>
+  <project>
+    <!-- Gives an order of appearance to the project, 1 means the project will appear first in the list and so on... -->
+    <orderOfAppearance>5</orderOfAppearance>
+    <title>Project N°5</title>
+    <!-- A project may have a deadline, if that's the case it needs to be included below
+    Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <deadline>2012-12-02 13:37</deadline>
+    <subTitle>Project subtitle</subTitle>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/5.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Projects/5.jpg</remotePictureURI>
+    <description>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet hendrerit venenatis. Vestibulum ullamcorper tortor magna, viverra tincidunt orci. Sed malesuada faucibus sapien, a varius ante auctor ac. Vivamus adipiscing facilisis molestie. Integer enim lacus, egestas ac euismod vel, lacinia vel odio. Suspendisse luctus congue risus, eget porta sapien ornare vitae. Duis lobortis urna vitae mi pellentesque eget auctor ipsum fermentum. Curabitur felis nulla, rutrum et dictum in, scelerisque quis nisl.
+
+      Nam fringilla volutpat tortor, et cursus urna eleifend ut. Nunc ultrices, tortor non ullamcorper pharetra, velit dui gravida ligula, a dictum risus risus eu orci. Nullam id dolor ultricies nunc consectetur molestie. Phasellus volutpat aliquam diam vitae faucibus. Maecenas in ipsum mi, quis ultricies ipsum. Proin libero mauris, rutrum quis fermentum et, porttitor in elit. Curabitur hendrerit nulla sed neque tempor bibendum. Proin eu ante sem, adipiscing semper leo.
+
+      Duis facilisis venenatis quam. Vivamus rhoncus nulla id nunc imperdiet at auctor arcu laoreet. Suspendisse accumsan nibh id orci fermentum feugiat. Nullam quis dictum orci. Maecenas at diam non diam suscipit adipiscing id et lorem. Maecenas auctor odio nec dui elementum in porttitor nisl suscipit. Sed vestibulum pharetra mi vitae malesuada. Proin vitae mi metus, eget pulvinar libero. Duis scelerisque diam vel lorem vulputate et rutrum dolor aliquam. Nunc est eros, suscipit a egestas ut, pulvinar in lacus. Quisque orci felis, faucibus a pulvinar a, interdum in nibh.
+
+      Cras ut lectus id massa lobortis sodales. Aenean malesuada fringilla vehicula. Mauris semper iaculis ultrices. Quisque arcu libero, dapibus ac tempus in, viverra accumsan lorem. Etiam euismod feugiat metus sit amet elementum. Nam semper hendrerit lacus, non convallis arcu varius eleifend. Nullam sit amet est urna. Fusce nec dolor non turpis hendrerit porta sit amet id nunc. Pellentesque nec justo ut risus lacinia luctus. Donec nec euismod turpis. Maecenas ullamcorper nulla nec lectus hendrerit iaculis. Vestibulum purus nibh, interdum porta molestie nec, malesuada ut velit.
+
+      Curabitur nec lectus libero. Suspendisse elit quam, rutrum sed tempus in, commodo id ante. Nam sit amet dui velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc rutrum ipsum orci. Quisque eleifend dictum quam in tempus. Duis vel ante diam. Pellentesque in risus nec ipsum mattis consectetur. Suspendisse aliquam lorem sit amet lacus cursus auctor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus elementum mollis felis eget commodo. Etiam in sapien ligula, in dignissim lorem. Cras laoreet nibh nec urna iaculis ut iaculis sapien dictum.
+    </description>
+    <contactName>Sebastien B.</contactName>
+    <contactEmail>contact@ahead-solutions.com</contactEmail>
+    <contactPhone>+33684540000</contactPhone>
+  </project>
+</projects>

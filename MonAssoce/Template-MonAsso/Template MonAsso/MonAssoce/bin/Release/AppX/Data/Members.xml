@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<members>
+  <member>
+    <firstName>Sebastien</firstName>
+    <lastName>K.</lastName>
+    <memberSince>2000-01-01</memberSince>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Members/1.jpg</pictureURI>
+    <email></email>
+    <phoneNumber>05000000001</phoneNumber>
+  </member>
+  <member>
+    <firstName>Emilie</firstName>
+    <lastName>T.</lastName>
+    <memberSince>2000-01-01</memberSince>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Members/2.jpg</pictureURI>
+    <email>contact@ahead-solutions.com</email>
+    <phoneNumber>05000000001</phoneNumber>
+  </member>
+  <member>
+    <firstName>Julie</firstName>
+    <lastName>K.</lastName>
+    <memberSince>2011-01-01</memberSince>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Members/3.jpg</pictureURI>
+    <email>contact@ahead-solutions.com</email>
+    <phoneNumber>05000000001</phoneNumber>
+  </member>
+  <member>
+    <firstName>Thomas</firstName>
+    <lastName>M.</lastName>
+    <memberSince>2000-01-01</memberSince>
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Members/4.jpg</pictureURI>
+    <email>contact@ahead-solutions.com</email>
+    <phoneNumber>05000000001</phoneNumber>
+  </member>
+  <member>
+  <firstName>Dominique</firstName>
+  <lastName>L.</lastName>
+  <memberSince>2000-01-01</memberSince>
+  <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/Members/5.jpg</pictureURI>
+  <email>contact@ahead-solutions.com</email>
+  <phoneNumber></phoneNumber>
+  </member>
+</members>

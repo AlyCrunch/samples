@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <clubName>mon assoce</clubName>
+  <description>Club Description Here, Club Description Here, Club Description Here, Club Description Here</description>
+  <contactPhoneNumber>0600000000</contactPhoneNumber>
+  <contactEmail>0600000000</contactEmail>
+  <!-- PictureURI may be a http:// URL if the pictures comes from the web -->
+  <pictureURI>/Content/Images/Club/TestClubPicto.png</pictureURI>
+  
+  <twitterURI>http://twitter.com/aheadsolutions</twitterURI>
+  <facebookURI>http://www.facebook.com/aheadsolutions</facebookURI>
+  <!--
+    Presentation.xml contains the presentation of your app. You may call this file locally (from IsolatedStorage)
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/Presentation.xml or any URL returning a XML feed of the same data structure as Events.xml
+  -->
+  <presentationSourceURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Data/Presentation.xml</presentationSourceURI>
+  
+  <newsSourceURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Data/News.xml</newsSourceURI>
+  <!-- FOR LOCAL  USE : <newsSourceURI>Data/News.xml</newsSourceURI>-->
+  <!--
+    Events.xml contains the list of upcoming events. You may call this file locally (from IsolatedStorage)
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/Events.xml or any URL returning a XML feed of the same data structure as Events.xml
+  -->
+  <eventsSourceURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Data/Events.xml</eventsSourceURI>
+  <!-- FOR LOCAL CALL USE : <newsSourceURI>Data/Events.xml</newsSourceURI>-->
+  <!--
+    OfficeMembers.xml contains the list of the association main members (Office). You may call this file locally (from IsolatedStorage).
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/OfficeMembers.xml or any other URL returning a XML feed following the same data structure as OfficeMembers.xml
+  -->
+  <officeMembersSourceURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Data/OfficeMembers.xml</officeMembersSourceURI>
+  <!-- FOR LOCAL CALL USE : <newsSourceURI>Data/OfficeMembers.xml</newsSourceURI>-->
+  <!--
+    Members.xml contains the list of all the association members. You may call this file locally (from IsolatedStorage)
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/Members.xml or any other URL returning a XML feed following the same data structure as Members.xml
+  -->
+  <membersSourceURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Data/Members.xml</membersSourceURI>
+  <!-- FOR LOCAL CALL USE : <newsSourceURI>Data/Members.xml</newsSourceURI>-->
+  <!--
+    Projects.xml contains the list of all the association main projects. You may call this file locally (from IsolatedStorage)
+    Please note the path is absolute (Data/...)
+    or call it dynamically from remote : http://YOUR_WEB_SITE/Projects.xml or any other URL returning a XML feed following the same data structure as Projects.xml
+  -->
+  <projectsSourceURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Data/Projects.xml</projectsSourceURI>
+  <!-- FOR LOCAL CALL USE : <newsSourceURI>Data/Projects.xml</newsSourceURI>-->
+</settings>

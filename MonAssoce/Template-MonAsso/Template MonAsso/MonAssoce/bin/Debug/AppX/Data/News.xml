@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<news>
+  <item>
+    <title>Cocktail DVE</title>
+    <!-- Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <date>2012-11-12 20:37</date>
+    <link>http://www.devinci-engineering.com/?page=cocktail</link>
+    <!-- PictureURI is a 250x250px image link (or square picture bigger than 250px wide) -->
+    <pictureURI>http://www.devinci-engineering.com/img/cocktail/30.JPG</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://www.devinci-engineering.com/img/champ.jpg</remotePictureURI>
+    <content>
+      Pour la 5ème année consécutive, la DeVinci Engineering organise son cocktail qui réunit les anciens étudiants ainsi que le corps professoral de l'ESILV.
+    </content>
+  </item>
+
+  <item>
+    <title>Ouverture du recrutement</title>
+    <date>2012-11-10 08:11</date>
+    <link>http://www.devinci-engineering.com</link>
+    <pictureURI>http://www.devinci-engineering.com/img/logodve.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://www.devinci-engineering.com/img/logodve.jpg</remotePictureURI>
+    <content>
+      La Devinci Engineering recrute. Pour nous rejoindre, rendez-vous sur ce lien !
+      <a href="http://www.devinci-engineering.com/?page=contact&amp;onglet=inscription">http://www.devinci-engineering.com/?page=contact&amp;onglet=inscription</a>
+    </content>
+  </item>
+</news>

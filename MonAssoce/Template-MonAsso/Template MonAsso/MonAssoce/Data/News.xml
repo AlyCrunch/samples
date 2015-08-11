@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<news>
+  <item>
+    <title>News N°1</title>
+    <!-- Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <date>2012-12-02 13:37</date>
+    <link>http://www.example.org/actu1</link>
+    <!-- PictureURI is a 250x250px image link (or square picture bigger than 250px wide) -->
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/1.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/1.jpg</remotePictureURI>
+    <content>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet massa nec velit vehicula aliquam. Fusce eu mi id libero tincidunt vehicula. Suspendisse potenti. Ut at tellus lectus, tempus facilisis tellus. Curabitur tincidunt lectus vel massa tristique ut eleifend massa ornare. Etiam ut scelerisque libero. Vestibulum varius nunc at erat ornare non venenatis erat rutrum. Curabitur purus dui, varius eu elementum sit amet, sodales non ipsum. Nam facilisis orci ac nunc rutrum sed scelerisque lectus molestie. Ut adipiscing aliquet adipiscing. Sed enim lorem, tincidunt sed sodales et, tincidunt quis leo. Quisque varius augue eget enim mattis feugiat.
+       
+      Fusce eu lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pretium est dapibus quam condimentum egestas. Vivamus enim mi, sagittis id auctor id, varius at mauris. Aenean dictum, diam a cursus semper, lacus lectus semper urna, ut pharetra dui sem a sem. Integer dui nisi, venenatis sit amet blandit sed, condimentum non dolor. Vestibulum quam tortor, gravida eu malesuada nec, porttitor ultrices turpis. Sed dapibus, enim at blandit sollicitudin, velit dui varius velit, sit amet cursus arcu turpis vitae mi. Nulla quis turpis ut enim eleifend faucibus.
+       
+      Sed risus mi, hendrerit a vehicula a, rhoncus eu ligula. Suspendisse egestas odio a libero molestie tincidunt. Etiam ac tincidunt diam. Maecenas pulvinar ante nec felis imperdiet dictum. Etiam a hendrerit nulla. Nam sit amet libero mi. Fusce eget tellus massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In euismod diam id sem aliquet dapibus. Sed eleifend fermentum orci, nec rutrum lacus volutpat in. Morbi in sollicitudin orci. Mauris euismod auctor mi eu blandit. Aliquam eu elit sapien, quis rhoncus enim.
+       
+      Integer viverra sapien vitae erat semper a venenatis nisl facilisis. Nulla commodo ligula quis nisi aliquam vel rhoncus turpis congue. Nam at lacus nec odio faucibus sollicitudin. Vivamus ac lectus in eros egestas tempus. In quis lobortis enim. Quisque imperdiet ipsum ut felis volutpat in bibendum massa euismod. Integer sapien urna, porttitor ac gravida ut, rutrum quis tortor. Nam tempor orci sit amet libero tristique lacinia quis vel ante. Fusce nisl justo, auctor in ullamcorper ut, tincidunt eu leo. Sed aliquam varius orci, quis molestie nibh mattis sit amet. Nulla nisl eros, accumsan id eleifend vel, dignissim id lacus. Nullam nibh orci, consectetur ac gravida pellentesque, dapibus non ligula. Suspendisse dapibus condimentum diam ac interdum. Suspendisse lorem dui, molestie eu sodales non, auctor vitae quam. Cras mauris tortor, laoreet at dictum non, tincidunt nec nibh.
+       
+      Phasellus non cursus odio. Mauris feugiat luctus ligula, ut egestas ligula ultrices vitae. Sed fringilla dignissim orci, non rutrum est varius quis. Ut quis elementum arcu. Morbi a eros justo. In hac habitasse platea dictumst. Maecenas placerat pretium est ac sodales. Vivamus ut tellus purus. Nullam sed velit sit amet enim tempus feugiat. Aliquam erat volutpat.
+    </content>
+  </item>
+  <item>
+    <title>News N°2</title>
+    <!-- Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <date>2012-11-02 13:37</date>
+    <link>http://www.example.org/actu1</link>
+    <!-- PictureURI is a 250x250px image link (or square picture bigger than 250px wide) -->
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/2.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/2.jpg</remotePictureURI>
+    <content>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet massa nec velit vehicula aliquam. Fusce eu mi id libero tincidunt vehicula. Suspendisse potenti. Ut at tellus lectus, tempus facilisis tellus. Curabitur tincidunt lectus vel massa tristique ut eleifend massa ornare. Etiam ut scelerisque libero. Vestibulum varius nunc at erat ornare non venenatis erat rutrum. Curabitur purus dui, varius eu elementum sit amet, sodales non ipsum. Nam facilisis orci ac nunc rutrum sed scelerisque lectus molestie. Ut adipiscing aliquet adipiscing. Sed enim lorem, tincidunt sed sodales et, tincidunt quis leo. Quisque varius augue eget enim mattis feugiat.
+       
+      Fusce eu lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pretium est dapibus quam condimentum egestas. Vivamus enim mi, sagittis id auctor id, varius at mauris. Aenean dictum, diam a cursus semper, lacus lectus semper urna, ut pharetra dui sem a sem. Integer dui nisi, venenatis sit amet blandit sed, condimentum non dolor. Vestibulum quam tortor, gravida eu malesuada nec, porttitor ultrices turpis. Sed dapibus, enim at blandit sollicitudin, velit dui varius velit, sit amet cursus arcu turpis vitae mi. Nulla quis turpis ut enim eleifend faucibus.
+       
+      Sed risus mi, hendrerit a vehicula a, rhoncus eu ligula. Suspendisse egestas odio a libero molestie tincidunt. Etiam ac tincidunt diam. Maecenas pulvinar ante nec felis imperdiet dictum. Etiam a hendrerit nulla. Nam sit amet libero mi. Fusce eget tellus massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In euismod diam id sem aliquet dapibus. Sed eleifend fermentum orci, nec rutrum lacus volutpat in. Morbi in sollicitudin orci. Mauris euismod auctor mi eu blandit. Aliquam eu elit sapien, quis rhoncus enim.
+       
+      Integer viverra sapien vitae erat semper a venenatis nisl facilisis. Nulla commodo ligula quis nisi aliquam vel rhoncus turpis congue. Nam at lacus nec odio faucibus sollicitudin. Vivamus ac lectus in eros egestas tempus. In quis lobortis enim. Quisque imperdiet ipsum ut felis volutpat in bibendum massa euismod. Integer sapien urna, porttitor ac gravida ut, rutrum quis tortor. Nam tempor orci sit amet libero tristique lacinia quis vel ante. Fusce nisl justo, auctor in ullamcorper ut, tincidunt eu leo. Sed aliquam varius orci, quis molestie nibh mattis sit amet. Nulla nisl eros, accumsan id eleifend vel, dignissim id lacus. Nullam nibh orci, consectetur ac gravida pellentesque, dapibus non ligula. Suspendisse dapibus condimentum diam ac interdum. Suspendisse lorem dui, molestie eu sodales non, auctor vitae quam. Cras mauris tortor, laoreet at dictum non, tincidunt nec nibh.
+       
+      Phasellus non cursus odio. Mauris feugiat luctus ligula, ut egestas ligula ultrices vitae. Sed fringilla dignissim orci, non rutrum est varius quis. Ut quis elementum arcu. Morbi a eros justo. In hac habitasse platea dictumst. Maecenas placerat pretium est ac sodales. Vivamus ut tellus purus. Nullam sed velit sit amet enim tempus feugiat. Aliquam erat volutpat.
+    </content>
+  </item>
+  <item>
+    <title>News N°3</title>
+    <!-- Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <date>2012-10-02 13:37</date>
+    <link>http://www.example.org/actu1</link>
+    <!-- PictureURI is a 250x250px image link (or square picture bigger than 250px wide) -->
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/3.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/3.jpg</remotePictureURI>
+    <content>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet massa nec velit vehicula aliquam. Fusce eu mi id libero tincidunt vehicula. Suspendisse potenti. Ut at tellus lectus, tempus facilisis tellus. Curabitur tincidunt lectus vel massa tristique ut eleifend massa ornare. Etiam ut scelerisque libero. Vestibulum varius nunc at erat ornare non venenatis erat rutrum. Curabitur purus dui, varius eu elementum sit amet, sodales non ipsum. Nam facilisis orci ac nunc rutrum sed scelerisque lectus molestie. Ut adipiscing aliquet adipiscing. Sed enim lorem, tincidunt sed sodales et, tincidunt quis leo. Quisque varius augue eget enim mattis feugiat.
+       
+      Fusce eu lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pretium est dapibus quam condimentum egestas. Vivamus enim mi, sagittis id auctor id, varius at mauris. Aenean dictum, diam a cursus semper, lacus lectus semper urna, ut pharetra dui sem a sem. Integer dui nisi, venenatis sit amet blandit sed, condimentum non dolor. Vestibulum quam tortor, gravida eu malesuada nec, porttitor ultrices turpis. Sed dapibus, enim at blandit sollicitudin, velit dui varius velit, sit amet cursus arcu turpis vitae mi. Nulla quis turpis ut enim eleifend faucibus.
+       
+      Sed risus mi, hendrerit a vehicula a, rhoncus eu ligula. Suspendisse egestas odio a libero molestie tincidunt. Etiam ac tincidunt diam. Maecenas pulvinar ante nec felis imperdiet dictum. Etiam a hendrerit nulla. Nam sit amet libero mi. Fusce eget tellus massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In euismod diam id sem aliquet dapibus. Sed eleifend fermentum orci, nec rutrum lacus volutpat in. Morbi in sollicitudin orci. Mauris euismod auctor mi eu blandit. Aliquam eu elit sapien, quis rhoncus enim.
+       
+      Integer viverra sapien vitae erat semper a venenatis nisl facilisis. Nulla commodo ligula quis nisi aliquam vel rhoncus turpis congue. Nam at lacus nec odio faucibus sollicitudin. Vivamus ac lectus in eros egestas tempus. In quis lobortis enim. Quisque imperdiet ipsum ut felis volutpat in bibendum massa euismod. Integer sapien urna, porttitor ac gravida ut, rutrum quis tortor. Nam tempor orci sit amet libero tristique lacinia quis vel ante. Fusce nisl justo, auctor in ullamcorper ut, tincidunt eu leo. Sed aliquam varius orci, quis molestie nibh mattis sit amet. Nulla nisl eros, accumsan id eleifend vel, dignissim id lacus. Nullam nibh orci, consectetur ac gravida pellentesque, dapibus non ligula. Suspendisse dapibus condimentum diam ac interdum. Suspendisse lorem dui, molestie eu sodales non, auctor vitae quam. Cras mauris tortor, laoreet at dictum non, tincidunt nec nibh.
+       
+      Phasellus non cursus odio. Mauris feugiat luctus ligula, ut egestas ligula ultrices vitae. Sed fringilla dignissim orci, non rutrum est varius quis. Ut quis elementum arcu. Morbi a eros justo. In hac habitasse platea dictumst. Maecenas placerat pretium est ac sodales. Vivamus ut tellus purus. Nullam sed velit sit amet enim tempus feugiat. Aliquam erat volutpat.
+    </content>
+  </item>
+  <item>
+    <title>News N°4</title>
+    <!-- Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <date>2012-09-02 13:37</date>
+    <link>http://www.example.org/actu1</link>
+    <!-- PictureURI is a 250x250px image link (or square picture bigger than 250px wide) -->
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/4.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/4.jpg</remotePictureURI>
+    <content>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet massa nec velit vehicula aliquam. Fusce eu mi id libero tincidunt vehicula. Suspendisse potenti. Ut at tellus lectus, tempus facilisis tellus. Curabitur tincidunt lectus vel massa tristique ut eleifend massa ornare. Etiam ut scelerisque libero. Vestibulum varius nunc at erat ornare non venenatis erat rutrum. Curabitur purus dui, varius eu elementum sit amet, sodales non ipsum. Nam facilisis orci ac nunc rutrum sed scelerisque lectus molestie. Ut adipiscing aliquet adipiscing. Sed enim lorem, tincidunt sed sodales et, tincidunt quis leo. Quisque varius augue eget enim mattis feugiat.
+       
+      Fusce eu lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pretium est dapibus quam condimentum egestas. Vivamus enim mi, sagittis id auctor id, varius at mauris. Aenean dictum, diam a cursus semper, lacus lectus semper urna, ut pharetra dui sem a sem. Integer dui nisi, venenatis sit amet blandit sed, condimentum non dolor. Vestibulum quam tortor, gravida eu malesuada nec, porttitor ultrices turpis. Sed dapibus, enim at blandit sollicitudin, velit dui varius velit, sit amet cursus arcu turpis vitae mi. Nulla quis turpis ut enim eleifend faucibus.
+       
+      Sed risus mi, hendrerit a vehicula a, rhoncus eu ligula. Suspendisse egestas odio a libero molestie tincidunt. Etiam ac tincidunt diam. Maecenas pulvinar ante nec felis imperdiet dictum. Etiam a hendrerit nulla. Nam sit amet libero mi. Fusce eget tellus massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In euismod diam id sem aliquet dapibus. Sed eleifend fermentum orci, nec rutrum lacus volutpat in. Morbi in sollicitudin orci. Mauris euismod auctor mi eu blandit. Aliquam eu elit sapien, quis rhoncus enim.
+       
+      Integer viverra sapien vitae erat semper a venenatis nisl facilisis. Nulla commodo ligula quis nisi aliquam vel rhoncus turpis congue. Nam at lacus nec odio faucibus sollicitudin. Vivamus ac lectus in eros egestas tempus. In quis lobortis enim. Quisque imperdiet ipsum ut felis volutpat in bibendum massa euismod. Integer sapien urna, porttitor ac gravida ut, rutrum quis tortor. Nam tempor orci sit amet libero tristique lacinia quis vel ante. Fusce nisl justo, auctor in ullamcorper ut, tincidunt eu leo. Sed aliquam varius orci, quis molestie nibh mattis sit amet. Nulla nisl eros, accumsan id eleifend vel, dignissim id lacus. Nullam nibh orci, consectetur ac gravida pellentesque, dapibus non ligula. Suspendisse dapibus condimentum diam ac interdum. Suspendisse lorem dui, molestie eu sodales non, auctor vitae quam. Cras mauris tortor, laoreet at dictum non, tincidunt nec nibh.
+       
+      Phasellus non cursus odio. Mauris feugiat luctus ligula, ut egestas ligula ultrices vitae. Sed fringilla dignissim orci, non rutrum est varius quis. Ut quis elementum arcu. Morbi a eros justo. In hac habitasse platea dictumst. Maecenas placerat pretium est ac sodales. Vivamus ut tellus purus. Nullam sed velit sit amet enim tempus feugiat. Aliquam erat volutpat.
+    </content>
+  </item>
+  <item>
+    <title>News N°5</title>
+    <!-- Date can support the following formats : YYYY-MM-DD or YYYY-MM-DD HH:MM (2012-12-05 14:00) -->
+    <date>2012-08-02 13:37</date>
+    <link>http://www.example.org/actu1</link>
+    <!-- PictureURI is a 250x250px image link (or square picture bigger than 250px wide) -->
+    <pictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/5.jpg</pictureURI>
+    <bigPictureURI></bigPictureURI>
+    <remotePictureURI>http://aheadsolutions.s3.amazonaws.com/MonAssoce/Windows8/Content/Images/News/5.jpg</remotePictureURI>
+    <content>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet massa nec velit vehicula aliquam. Fusce eu mi id libero tincidunt vehicula. Suspendisse potenti. Ut at tellus lectus, tempus facilisis tellus. Curabitur tincidunt lectus vel massa tristique ut eleifend massa ornare. Etiam ut scelerisque libero. Vestibulum varius nunc at erat ornare non venenatis erat rutrum. Curabitur purus dui, varius eu elementum sit amet, sodales non ipsum. Nam facilisis orci ac nunc rutrum sed scelerisque lectus molestie. Ut adipiscing aliquet adipiscing. Sed enim lorem, tincidunt sed sodales et, tincidunt quis leo. Quisque varius augue eget enim mattis feugiat.
+       
+      Fusce eu lectus nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pretium est dapibus quam condimentum egestas. Vivamus enim mi, sagittis id auctor id, varius at mauris. Aenean dictum, diam a cursus semper, lacus lectus semper urna, ut pharetra dui sem a sem. Integer dui nisi, venenatis sit amet blandit sed, condimentum non dolor. Vestibulum quam tortor, gravida eu malesuada nec, porttitor ultrices turpis. Sed dapibus, enim at blandit sollicitudin, velit dui varius velit, sit amet cursus arcu turpis vitae mi. Nulla quis turpis ut enim eleifend faucibus.
+       
+      Sed risus mi, hendrerit a vehicula a, rhoncus eu ligula. Suspendisse egestas odio a libero molestie tincidunt. Etiam ac tincidunt diam. Maecenas pulvinar ante nec felis imperdiet dictum. Etiam a hendrerit nulla. Nam sit amet libero mi. Fusce eget tellus massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In euismod diam id sem aliquet dapibus. Sed eleifend fermentum orci, nec rutrum lacus volutpat in. Morbi in sollicitudin orci. Mauris euismod auctor mi eu blandit. Aliquam eu elit sapien, quis rhoncus enim.
+       
+      Integer viverra sapien vitae erat semper a venenatis nisl facilisis. Nulla commodo ligula quis nisi aliquam vel rhoncus turpis congue. Nam at lacus nec odio faucibus sollicitudin. Vivamus ac lectus in eros egestas tempus. In quis lobortis enim. Quisque imperdiet ipsum ut felis volutpat in bibendum massa euismod. Integer sapien urna, porttitor ac gravida ut, rutrum quis tortor. Nam tempor orci sit amet libero tristique lacinia quis vel ante. Fusce nisl justo, auctor in ullamcorper ut, tincidunt eu leo. Sed aliquam varius orci, quis molestie nibh mattis sit amet. Nulla nisl eros, accumsan id eleifend vel, dignissim id lacus. Nullam nibh orci, consectetur ac gravida pellentesque, dapibus non ligula. Suspendisse dapibus condimentum diam ac interdum. Suspendisse lorem dui, molestie eu sodales non, auctor vitae quam. Cras mauris tortor, laoreet at dictum non, tincidunt nec nibh.
+       
+      Phasellus non cursus odio. Mauris feugiat luctus ligula, ut egestas ligula ultrices vitae. Sed fringilla dignissim orci, non rutrum est varius quis. Ut quis elementum arcu. Morbi a eros justo. In hac habitasse platea dictumst. Maecenas placerat pretium est ac sodales. Vivamus ut tellus purus. Nullam sed velit sit amet enim tempus feugiat. Aliquam erat volutpat.
+    </content>
+  </item>
+</news>
